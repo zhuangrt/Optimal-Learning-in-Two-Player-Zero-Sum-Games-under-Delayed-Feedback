@@ -1,6 +1,6 @@
 # Delayed-Feedback Game Learning Experiments
 
-Public code for the paper "Optimal Learning in Two-Player Zero-Sum Games under Delayed Feedback" in AISTATS2026 (under review).
+Public code for the paper "Optimal Learning in Two-Player Zero-Sum Games under Delayed Feedback" in AISTATS2026.
 
 This notebook reproduces the core experiments on two-player zero-sum games with delayed feedback, comparing the proposed method (`ProposedPlayer`) against the baseline (`FujimotoPlayer`).
 It evaluates both social regret and individual regret under various delays $D$, learning rates $\eta$, and random seeds used for generating the payoff matrices.
